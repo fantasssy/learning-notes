@@ -15,9 +15,4 @@ https://www.yuque.com/docs/share/39c82318-6a2b-44f1-9f4d-2d1787a91037?# 《《C+
 # 2. CSAPP
 《CSAPP》（原书第三版）学习记录
 https://www.yuque.com/docs/share/c1c1ee58-74bd-430e-8148-6f018ce1f9a5?# 《CSAPP（原书第三版）学习记录》
-有一定科普作用，从计算机讲到C，再到体系结构、代码优化、网络、OS、并发等等都有涉及
-（尚不完整，主要这本书太hardcore，短期内啃不下来）
 
-# 3. 数据结构与算法
-## 《数据结构、算法与应用  C++语言描述  原书第2版》
-https://www.yuque.com/docs/share/1015cebd-8a50-49af-8af6-dd2391e497c4?# 《《数据结构、算法与应用  C++语言描述  原书第2版》学习记录》
